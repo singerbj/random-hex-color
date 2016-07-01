@@ -1,0 +1,17 @@
+{
+  "name": "random-hex-color",
+  "version": "1.0.0",
+  "description": "Random hex color generator!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "['random'",
+    "'hex'",
+    "'color'",
+    "'generator']"
+  ],
+  "author": "Benjamin Singer",
+  "license": "ISC"
+}
