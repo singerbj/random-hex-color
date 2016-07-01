@@ -1,5 +1,5 @@
 {
-  "name": "random-hex-color",
+  "name": "random-hex-color-string-string",
   "version": "1.0.0",
   "description": "Random hex color generator!",
   "main": "index.js",
@@ -16,10 +16,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/singerbj/random-hex-color.git"
+    "url": "git+https://github.com/singerbj/random-hex-color-string.git"
   },
   "bugs": {
-    "url": "https://github.com/singerbj/random-hex-color/issues"
+    "url": "https://github.com/singerbj/random-hex-color-string/issues"
   },
-  "homepage": "https://github.com/singerbj/random-hex-color#readme"
+  "homepage": "https://github.com/singerbj/random-hex-color-string#readme"
 }

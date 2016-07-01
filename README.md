@@ -1,1 +1,1 @@
-# random-hex-color
+# random-hex-color-string
