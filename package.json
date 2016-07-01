@@ -13,5 +13,13 @@
     "'generator']"
   ],
   "author": "Benjamin Singer",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singerbj/random-hex-color.git"
+  },
+  "bugs": {
+    "url": "https://github.com/singerbj/random-hex-color/issues"
+  },
+  "homepage": "https://github.com/singerbj/random-hex-color#readme"
 }
